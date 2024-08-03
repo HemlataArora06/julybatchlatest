@@ -5,7 +5,8 @@ public class Student {
 	int age;
 	public void display1()
 	{
-		System.out.println("Welcome to all of you");
+		System.out.println("Welcome to all of you nine meeting");
+        System.out.println("once again");
 	}
 	public void display2()
 	{
